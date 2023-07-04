@@ -1,4 +1,4 @@
-# vite MinimumSettings
+# Vite MinimumSettings
 
 a simple demo for using Vite.
 
