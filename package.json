@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "vite": "^4.3.9"
+  "type": "module",
+  "devDependencies": {
+    "sass": "^1.70.0",
+    "vite": "^5.0.11"
   }
 }

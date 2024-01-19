@@ -6,6 +6,6 @@ window.addEventListener('DOMContentLoaded', function () {
   // show success mark element.
   const $success = document.createElement('div')
   $success.id = 'success'
-  $success.innerHTML = `success`
+  $success.innerHTML = 'success'
   document.body.appendChild($success)
 })
